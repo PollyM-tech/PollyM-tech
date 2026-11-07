@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Pauline Moraa  
 
-- 💻 **Full-Stack Developer** with a foundation in **Software Engineering**  
-- 🚀 Skilled in **Python (Django, Flask) React js,Typescript, JavaScript, HTML, CSS**, **Tailwind CSS**,  
-- 🔗 Exploring **STK Push integrations** and advanced backend development  
+- 💻 **Full-Stack Developer** with a foundation in **Software Engineering**  and **Cyber Security**
+- 🚀 Skilled in **Python (Django, Flask) React js,Typescript, JavaScript, Convex, HTML, CSS**, **Tailwind CSS**,  
+- 🔗 Good with **STK Push integrations** and advanced backend development  
 - 🌱 Continuously improving my skills in **Full-Stack Web Development**  
 - 🤝 Open to collaborating on **impactful web and fintech projects**  
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pauline-moraa)  
